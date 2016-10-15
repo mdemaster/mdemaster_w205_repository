@@ -1,0 +1,15 @@
+Are average scores for hospital quality or procedural variability correlated
+with patient survey responses?
+
+For this question, I was unable to join the measures from the hospital scores
+to the measures from the survey ratings as they are not related.  However, I
+could join the provider_ids from the two tables in order to create a pairwise
+table of the average hospital quality scores and the average survey star
+ratings per hospital.  I then took the Pearson's correlation of these two
+metrics and returned -0.27.
+
+It appears the quality scores for hospitals as measured by time and
+effectiveness is slightly negatively correlated with patient satisfaction
+ratings.  I am not surprised by this result as I have read that customer
+satisfaction in hospital settings is often at odds with clinical
+effectiveness.

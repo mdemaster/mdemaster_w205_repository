@@ -1,0 +1,1 @@
+select corr(avgscore,avgrating) from (select p.provider_id, avg(p.score) as avgscore, avg(s.rating) as avgrating from provider_procedure_scores p, provider_surveys s where p.provider_id=s.provider_id group by p.provider_id) x;

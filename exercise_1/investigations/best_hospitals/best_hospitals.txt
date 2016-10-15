@@ -1,0 +1,17 @@
+What hospitals are models of high-quality care?
+
+According to my query of the top 10 scoring averages, the following hospitals
+are achieving the highest quality of care.  By taking an average of the scores
+for all procedures measured at each hospital, I think this provides the best
+metric for showing consistently high scores across all procedures.
+
+HOSPITAL METROPOLITANO DR PILA	195.3846153846154
+TEHACHAPI HOSPITAL	190.5
+HOSPITAL DE LA CONCEPCION	172.66666666666666
+HOSPITAL MENONITA DE CAYEY	164.8181818181818
+CARTHAGE AREA HOSPITAL, INC	156.33333333333334
+REDWOOD MEMORIAL HOSPITAL	153.75
+HOSPITAL UPR, DR  FEDERICO TRILLA	152.72222222222223
+MT SAN RAFAEL HOSPITAL	150.5
+BATH COMMUNITY HOSPITAL	146.66666666666666
+PIKE COUNTY MEMORIAL HOSPITAL	145.0

@@ -1,0 +1,21 @@
+Which procedures have the greatest variability between hospitals?
+
+To determine this I took the variance of scores for each measure/procedure
+across all hospitals and ranked them high to low by their variance.  The
+result is a top ten listed below.  
+
+ED_1b	ED1	10140.267992512632
+ED_2b	ED2	4150.153914753866
+OP_18b	OP 18	1730.9695945981125
+OP_3b	Median Time to Transfer to Another Facility for Acute Coronary
+Intervention	1500.6610155511407
+OP_29	Endoscopy/Polyp Surveillance: Appropriate Follow-Up Interval for
+Normal Colonoscopy in Average Risk Patients	771.2134007043568
+OP_30	Endoscopy/Polyp Surveillance: Colonoscopy Interval for Patients with a
+History of Adenomatous Polyps - Avoidance of Inappropriate Use
+543.840153751408
+OP_23	Head CT results	419.5931680003642
+OP_2	Fibrinolytic Therapy Received Within 30 Minutes of ED Arrival
+386.5562165377751
+STK_4	Thrombolytic Therapy	338.9992288842812
+OP_21	Median time to pain med	307.2624332018901

@@ -1,0 +1,19 @@
+What states are models of high-quality care?
+
+Again I used the highest rated average score across all procedures for each
+state in order to rank the states according to quality of care.  The top ten
+states are listed below. Washington DC ranks highest, which I would expect as
+it is an affluent urban area.  Other high-ranking states include mostly
+north-eastern states and California, which makes sense from what I have heard
+about regional differences in resources available for medical care.
+
+DC	140.49107142857142
+DE	126.37037037037037
+NY	118.47540983606558
+NM	116.23770491803279
+CT	114.76229508196721
+CA	114.12903225806451
+MA	113.04918032786885
+NJ	112.85245901639344
+NV	111.59836065573771
+ME	111.00833333333334
